@@ -825,6 +825,41 @@ h4 {
     background-image: url("img/image-de-presentation.bmp");
 }
 
+/******************************************************
+*******************************************************
+*********               CORRECTIONS             *******
+*******************************************************
+******************************************************/
+
+.texteGris {
+    margin: auto;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: italic;
+    color: lightgrey;
+    font-size: 1.4em;
+    font-weight: 600;
+    text-align: center;
+}
+.texte1 {
+    width: 60%;
+    text-align: center;
+}
+.texte2 {
+    width: 75%;
+}
+.texte3 {
+    width: 70%;
+}
+#deuxiemeLigneGuibard {
+    font-size: 1.1em;
+}
+.backgroundPop {
+    background-color: rgba(0, 0, 0, 0.5);
+}
+.nonLisible {
+    font-size: 1.5rem;
+}
+
 @media (max-width: 1024px) {
     .bloc {
         padding-left: 20px;
